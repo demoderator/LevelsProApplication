@@ -1,0 +1,18 @@
+D:\nTier Structure\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\nTier Structure\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\nTier Structure\BusinessLogic\BusinessLogic\bin\Debug\Common.dll
+D:\nTier Structure\BusinessLogic\BusinessLogic\bin\Debug\DataAccess.dll
+D:\nTier Structure\BusinessLogic\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\nTier Structure\BusinessLogic\BusinessLogic\bin\Debug\Common.pdb
+D:\nTier Structure\BusinessLogic\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\nTier Structure\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\nTier Structure\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\bin\Debug\Common.dll
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\bin\Debug\DataAccess.dll
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\bin\Debug\Common.pdb
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\nTier Structure with MySql\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.pdb
